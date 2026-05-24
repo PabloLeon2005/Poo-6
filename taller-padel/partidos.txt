@@ -1,0 +1,3 @@
+Garcia / Lopez;Martinez / Sanchez;6;3
+Rodriguez / Perez;Fernandez / Gomez;4;6
+Torres / Ruiz;Moreno / Jimenez;6;1

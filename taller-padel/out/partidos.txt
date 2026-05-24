@@ -1,0 +1,4 @@
+pareja1;pareja2;setsPareja1;setsPareja2
+García / López;Martínez / Sánchez;6;3
+Rodríguez / Pérez;Fernández / González;4;6
+Torres / Ruiz;Moreno / Jiménez;6;1
